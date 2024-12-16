@@ -1,8 +1,6 @@
 # 🚗 Explore Mercedes-Benz Cars, Museum, & Events  
 ### React.js Project | Sleek Design & User Experience  
 
----
-
 <p align="center">
   <img 
     src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/mercedes-benz-site/images/mercedes-benz.png?raw=true" 
@@ -11,7 +9,6 @@
   />
 </p>  
 
----
 
 ## 🎥 Demo  
 
