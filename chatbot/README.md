@@ -73,7 +73,7 @@ Database (MongoDB)
 - Set up and customize chatbot behavior as per your requirements.
 
 ### **2. Upload Data**  
-- Upload PDFs, DOCX, or other documents to enhance chatbot responses.  
+- Upload PDFs to enhance chatbot responses.  
 - Your uploaded data will enable the chatbot to provide more accurate and personalized answers.
 
 ### **3. Integrate on Website**  
