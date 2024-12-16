@@ -7,7 +7,7 @@
   <img 
     src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/kids-learner-android-app/images/kids-learner.png?raw=true" 
     alt="Kids Learner App" 
-    height="200"
+    height="400"
   />
 </p>  
 
