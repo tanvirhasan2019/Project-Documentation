@@ -5,6 +5,11 @@
 
 ---
 
+## 🎥 Demo
+Check out the project:  
+[**Watch the Demo Video**](https://ncchatbot.com/) 👀 
+---
+
 ## **Overview**  
 This project provides a **RAG-based (Retrieval-Augmented Generation)** chatbot platform that allows businesses and website owners to create, manage, and deploy their own AI chatbots.  
 
