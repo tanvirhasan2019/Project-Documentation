@@ -7,6 +7,13 @@ This project provides an easy and seamless way for visitors to **book** and rece
 
 ---
 
+## 🎥 Demo
+
+Check out the project setup and booking workflow in action:  
+[**Watch the Demo Video**](https://kashima-dogclub.com) 👀 
+
+---
+
 ## 📝 Project Overview
 
 - **Built With**: WordPress + Custom CSS  
@@ -26,12 +33,6 @@ This ensures a **smooth** and **user-friendly** booking process.
 2. **Automation**: Backend server generates a private entry code.  
 3. **Notification**: The code is emailed to the customer and the club.  
 
----
-
-## 🎥 Demo
-
-Check out the project setup and booking workflow in action:  
-[**Watch the Demo Video**](https://kashima-dogclub.com) 👀 
 
 ---
 
