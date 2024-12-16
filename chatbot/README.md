@@ -1,1 +1,64 @@
-# chatbot project documentation
+# RAG-Based AI Chatbot Platform  
+
+**Create, Customize, and Integrate Your AI-Powered Chatbot**  
+
+---
+
+## **Overview**  
+This project provides a **RAG-based (Retrieval-Augmented Generation)** chatbot platform that allows businesses and website owners to create, manage, and deploy their own AI chatbots.  
+
+With this platform, you can:  
+- **Create Chatbots**: Easily set up and customize chatbot behavior.  
+- **Upload Data**: Upload documents (PDFs, DOCX) for enhanced chatbot responses.  
+- **Website Integration**: Embed chatbots into websites for automated Q&A.  
+- **Flexible Plans**: Choose from Free, Standard, or Premium subscriptions.  
+
+The system is built using **React.js**, **Next.js**, **Node.js**, **MongoDB**, and **OpenAI API** for intelligent chatbot responses.  
+
+---
+
+## **Features**  
+- 🛠 **Customizable Chatbots**: Set up and personalize chatbot behavior.  
+- 🔍 **Document Uploads**: Improve responses by uploading your documents.  
+- 🌐 **Website Integration**: Easily embed on your website.  
+- 🚀 **Scalable System**: Built with **AWS, Docker**, and **auto-scaling**.  
+- 📈 **High Performance**: Optimized for fast and accurate responses.  
+- 💼 **Flexible Plans**: Free, Standard, and Premium subscriptions.  
+
+---
+
+## **Technologies Used**  
+
+### **Frontend**  
+- React.js  
+- Next.js  
+- Framer Motion  
+
+### **Backend**  
+- Node.js  
+- Express.js  
+
+### **Database**  
+- MongoDB  
+
+### **AI Services**  
+- OpenAI API  
+- Pinecone (Vector Database)  
+- LangChain  
+
+### **Deployment**  
+- AWS (EC2, S3)  
+- Docker  
+
+---
+
+## **System Architecture**  
+
+```plaintext
+Client (React.js & Next.js)
+       |
+Backend API (Node.js + Express.js)
+       |
+Vector DB (Pinecone) ----> OpenAI API for chatbot responses
+       |
+Database (MongoDB)
