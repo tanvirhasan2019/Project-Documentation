@@ -6,7 +6,7 @@
   <img 
     src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/hospital-appointment-android-app/images/hospital-appointment.png?raw=true" 
     alt="Hospital App" 
-    style="max-height: 100px; width: auto;"
+    height="250"
   />
 </p>
 ---
