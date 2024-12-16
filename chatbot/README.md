@@ -1,6 +1,7 @@
 # RAG-Based AI Chatbot Platform  
 
 **Create, Customize, and Integrate Your AI-Powered Chatbot**  
+![Chatbot](https://github.com/tanvirhasan2019/Project-Documentation/blob/main/chatbot/images/chatbot.png?raw=true)
 
 ---
 
