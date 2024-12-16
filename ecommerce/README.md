@@ -50,11 +50,7 @@ The app combines a user-friendly interface with robust backend features to offer
 - **Authentication**: Identity Server 4  
 - **Live Chat**: Real-time communication support   
 
----
 
-## 📸 Screenshots  
-
-Add project screenshots here to showcase the UI/UX.  
 
 ---
 
