@@ -62,6 +62,7 @@ Backend API (Node.js + Express.js)
 Vector DB (Pinecone) ----> OpenAI API for chatbot responses
        |
 Database (MongoDB)
+```
 
 ---
 
