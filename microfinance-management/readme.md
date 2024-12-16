@@ -1,17 +1,12 @@
 # 💼 Microfinance Management System  
 ### Java Desktop App | University Project Showcase  
 
----
-
 <p align="center">
   <img 
     src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/microfinance-management/images/microfinance.png?raw=true" 
-    alt="Microfinance Management System" 
-    height="400"
+    alt="Microfinance Management System"
   />
 </p>  
-
----
 
 ## 🎥 Demo  
 
