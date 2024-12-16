@@ -48,7 +48,7 @@ The system is built using **React.js**, **Next.js**, **Node.js**, **MongoDB**, a
 - LangChain  
 
 ### **Deployment**  
-- AWS (EC2, S3)  
+- AWS (ECS, S3)  
 - Docker  
 
 ---
