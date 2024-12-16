@@ -3,6 +3,8 @@
 Welcome to the **Kashima Dog Club** booking system project! 🐶  
 This project provides an easy and seamless way for visitors to **book** and receive **VIP entry codes** automatically.
 
+![Chatbot Demo](https://github.com/tanvirhasan2019/Project-Documentation/blob/main/dog-club/images/dog-club.png?raw=true)
+
 ---
 
 ## 📝 Project Overview
@@ -29,7 +31,7 @@ This ensures a **smooth** and **user-friendly** booking process.
 ## 🎥 Demo
 
 Check out the project setup and booking workflow in action:  
-[**Watch the Demo Video**](#) 👀 *(Replace with video link)*  
+[**Watch the Demo Video**](https://kashima-dogclub.com) 👀 
 
 ---
 
