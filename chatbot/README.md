@@ -62,3 +62,23 @@ Backend API (Node.js + Express.js)
 Vector DB (Pinecone) ----> OpenAI API for chatbot responses
        |
 Database (MongoDB)
+
+---
+
+## **Usage**
+
+### **1. Create a Chatbot**  
+- Register and create a new chatbot.  
+- Set up and customize chatbot behavior as per your requirements.
+
+### **2. Upload Data**  
+- Upload PDFs, DOCX, or other documents to enhance chatbot responses.  
+- Your uploaded data will enable the chatbot to provide more accurate and personalized answers.
+
+### **3. Integrate on Website**  
+- Use the provided embed code to integrate the chatbot into your website.  
+- Seamlessly add the chatbot to any web page to automate Q&A systems.
+
+### **4. Manage Plans**  
+- Upgrade to **Standard** or **Premium** plans for additional features and capabilities.  
+- Choose the best plan that suits your needs and scale as your business grows.
