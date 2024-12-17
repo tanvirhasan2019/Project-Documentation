@@ -5,10 +5,10 @@ This script automates the installation of necessary software on any Ubuntu machi
 - Docker Compose
 - Node.js (LTS)
 - Nginx
-- Garana
+- Grafana
 - Prometheus
 - cadVisor
-- etc etc
+- etc.
 
 ## Prerequisites
 
