@@ -4,9 +4,9 @@
 ---  
 <p align="center">
   <img 
-    src="https://github.com/your-repo-link/nippon-cloud-website/images/nippon-cloud.png?raw=true" 
+    src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/ncc-company-site/images/ncc-website.png?raw=true" 
     alt="Nippon Cloud Co., Ltd. Website" 
-    height="400"
+    height="600"
   />
 </p>  
 
