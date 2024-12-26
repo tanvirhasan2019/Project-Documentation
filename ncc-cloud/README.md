@@ -6,7 +6,7 @@
   <img 
     src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/ncc-cloud/images/ncc-cloud.png?raw=true" 
     alt="NCC Cloud Sync" 
-    height="400"
+    height="600"
   />
 </p>  
 
