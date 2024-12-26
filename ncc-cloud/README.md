@@ -15,7 +15,7 @@
 ## 🎥 Demo  
 
 Experience NCC Cloud Sync in action:  
-[**Watch the Demo**](https://youtu.be/demo-video-link) 👀  
+[**Watch the Demo**](https://nccloudsync.com) 👀  
 
 ---
 
