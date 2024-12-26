@@ -4,7 +4,7 @@
 ---  
 <p align="center">
   <img 
-    src="https://github.com/your-repo-link/ncc-cloud-sync/images/ncc-cloud-sync.png?raw=true" 
+    src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/ncc-cloud/images/ncc-cloud.png?raw=true" 
     alt="NCC Cloud Sync" 
     height="400"
   />
