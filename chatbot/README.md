@@ -7,7 +7,7 @@
 
 ## 🎥 Demo
 Check out the project:  
-[**Watch the Demo Video**](https://ncchatbot.com/) 👀 
+[**Link**](https://ncchatbot.com/) 👀 
 ---
 
 ## **Overview**  
@@ -65,10 +65,17 @@ Client (React.js & Next.js)
        |
 Backend API (Node.js + Express.js)
        |
-Vector DB (Pinecone) ----> OpenAI API for chatbot responses
+       |--- Authentication Service (Google OAuth, JWT)
+       |
+       |--- Payment Service (Stripe API for subscriptions)
+       |
+       |--- File Upload Service (AWS S3)
+       |
+       |--- Chatbot Service (OpenAI API + Pinecone Vector DB)
        |
 Database (MongoDB)
 ```
+
 
 ---
 
