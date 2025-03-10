@@ -37,15 +37,6 @@ Welcome to my project documentation repository! This collection showcases my wor
 | **Microfinance Management** | Desktop application for microfinance operations | Java, NetBeans, Microsoft SQL Server | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/microfinance-management) |
 | **Shop Management** | System for transaction and inventory tracking | Java, NetBeans, Microsoft SQL Server | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/shop-management) |
 
-## 🔍 Skills Showcase
-
-- **Frontend**: React.js, Next.js, Material-UI, Framer Motion, HTML/CSS, Bootstrap
-- **Backend**: Node.js, Express.js, ASP.NET Core
-- **Mobile**: Java, Android Development
-- **Database**: MongoDB, Microsoft SQL Server
-- **Cloud & DevOps**: AWS (ECS, S3, Lambda), Docker, Terraform, Ansible
-- **AI & ML**: OpenAI API, LangChain, Vector Databases (Pinecone)
-- **Others**: WordPress, Shell Scripting, Python
 
 ## 🚀 Getting Started
 
