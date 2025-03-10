@@ -8,7 +8,7 @@ Welcome to my project documentation repository! This collection showcases my wor
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|------------|------------|
-| **ChatBot** | RAG-Based AI Chatbot Platform with vector database integration | React.js, Next.js, Node.js, Express.js, MongoDB, OpenAI API, Pinecone, LangChain, AWS, Docker | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/chatbot) |
+| **ChatBot** | RAG-Based AI Chatbot Platform with vector database integration | React.js, Next.js, Node.js, Express.js, MongoDB, OpenAI API, Pinecone, AWS, Docker | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/chatbot) |
 | **E-commerce Platform** | Full-featured e-commerce solution with admin panel | React.js, ASP.NET Core, Microsoft SQL Server, Identity Server 4 | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ecommerce) |
 | **Dog Club** | WordPress booking system with automatic code generation | WordPress, Custom CSS, Custom Server | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/dog-club) |
 | **Market Bridge Japan** | E-commerce management platform for online sellers | React.js, Next.js, Node.js, Express.js, MongoDB, OpenAI API, LangChain, AWS, Redux, Google OAuth2, Docker | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/market-bridge-japan) |
