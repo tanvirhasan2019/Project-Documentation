@@ -28,10 +28,9 @@ Welcome to my comprehensive project portfolio! This repository showcases my prof
 
 ## 📂 Project Portfolio
 
-### 🌐 Web Development 
+## 🌐 Web Development Projects
 
-<details>
-<summary><b>Click to expand Web Projects</b></summary>
+
 
 | Project | Description | Technologies | Link |
 |:-------:|:------------|:-------------|:----:|
@@ -42,24 +41,18 @@ Welcome to my comprehensive project portfolio! This repository showcases my prof
 | <img src="https://img.shields.io/badge/-NCC%20Site-purple?style=flat-square" alt="NCC Site"> | Corporate website with animations | React, Material-UI, Framer Motion | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ncc-company-site) |
 | <img src="https://img.shields.io/badge/-Dog%20Club-brown?style=flat-square" alt="Dog Club"> | WordPress booking with code generation | WordPress, Custom Backend | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/dog-club) |
 
-</details>
+## 📱 Mobile Applications
 
-### 📱 Mobile Applications
 
-<details>
-<summary><b>Click to expand Mobile Projects</b></summary>
 
 | Project | Description | Technologies | Link |
 |:-------:|:------------|:-------------|:----:|
 | <img src="https://img.shields.io/badge/-Hospital%20App-red?style=flat-square" alt="Hospital App"> | Healthcare appointment management | Java, Android SDK | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/hospital-appointment-android-app) |
 | <img src="https://img.shields.io/badge/-Kids%20Learner-yellow?style=flat-square" alt="Kids Learner"> | Interactive educational platform | Java, Android SDK | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/kids-learner-android-app) |
 
-</details>
+## ☁️ Cloud & Infrastructure
 
-### ☁️ Cloud & Infrastructure 
 
-<details open>
-<summary><b>Click to view Cloud Projects</b></summary>
 
 | Project | Description | Technologies | Link |
 |:-------:|:------------|:-------------|:----:|
@@ -67,19 +60,14 @@ Welcome to my comprehensive project portfolio! This repository showcases my prof
 | <img src="https://img.shields.io/badge/-NCC%20Cloud-teal?style=flat-square" alt="NCC Cloud"> | Enhanced Nextcloud implementation | Docker, Nginx, Terraform, Ansible | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ncc-cloud) |
 | <img src="https://img.shields.io/badge/-AWS%20EC2%20Nginx-navy?style=flat-square" alt="AWS EC2"> | Automated Nginx deployment | Terraform, Ansible, AWS | [📁](./aws-ec2-nginx-terraform-ansible) |
 
-</details>
+## 🖥️ Desktop Applications
 
-### 🖥️ Desktop Applications
 
-<details>
-<summary><b>Click to expand Desktop Projects</b></summary>
 
 | Project | Description | Technologies | Link |
 |:-------:|:------------|:-------------|:----:|
 | <img src="https://img.shields.io/badge/-Microfinance-green?style=flat-square" alt="Microfinance"> | Microfinance operations management | Java, NetBeans, SQL Server | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/microfinance-management) |
 | <img src="https://img.shields.io/badge/-Shop%20Management-blue?style=flat-square" alt="Shop Management"> | Transaction and inventory tracking | Java, NetBeans, SQL Server | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/shop-management) |
-
-</details>
 
 ## 🗂️ Repository Structure
 
