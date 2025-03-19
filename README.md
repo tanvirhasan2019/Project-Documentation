@@ -15,7 +15,7 @@ Welcome to my project documentation repository! This collection showcases my wor
 | **Mercedes-Benz Site** | Interactive car showcase with model exploration | React.js, HTML, CSS, Bootstrap | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/mercedes-benz-site) |
 | **NCC Company Site** | Corporate website for Nippon Cloud Co., Ltd. | React.js, Material-UI, Framer Motion, AWS | [View Project](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ncc-company-site) |
 
-### Mobile Applications
+### 📱 Mobile Applications 📱
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|------------|------------|
