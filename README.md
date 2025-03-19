@@ -4,7 +4,7 @@ Welcome to my project documentation repository! This collection showcases my wor
 
 ## 📚 Portfolio Overview
 
-### -----------------|| 🌐 Web Development Projects 🌐 ||------------------------
+### -----------------------------------|| 🌐 Web Development Projects 🌐 ||-----------------------------------
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|------------|------------|
