@@ -7,7 +7,8 @@
 
 ## 🎥 Demo
 Check out the project:  
-[**Link**](https://ncchatbot.com/) 👀 
+🌐 [**Link**](https://ncchatbot.com/) | ▶️ [**Link**](https://www.youtube.com/watch?v=i-B7goJUQnk)
+
 ---
 
 ## **Overview**  
