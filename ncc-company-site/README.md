@@ -12,10 +12,10 @@
 
 ---
 
-## 🎥 Demo  
+## 🎥 Live Link  
 
 Explore the website for Nippon Cloud Co., Ltd.:  
-[**Watch the Demo Video**](https://test.nccloudsync.com) 👀  
+[**Live**](https://www.nippon-cloud.jp/) 👀  
 
 ---
 
