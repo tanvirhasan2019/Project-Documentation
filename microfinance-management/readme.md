@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/microfinance-management/images/microfinance.png?raw=true" 
+    src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/microfinance-management/images/microfinance.png?raw=true?raw=true" 
     alt="Microfinance Management System"
   />
 </p>  
