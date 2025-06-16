@@ -58,7 +58,7 @@ Welcome to my comprehensive project portfolio! This repository showcases my prof
 |:-------:|:------------|:-------------|:----:|
 | <img src="https://img.shields.io/badge/-Shell%20Scripts-grey?style=flat-square" alt="Shell Scripts"> | Cloud automation collection | Shell, Cloud Services | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/automation-shell-script) |
 | <img src="https://img.shields.io/badge/-NCC%20Cloud-teal?style=flat-square" alt="NCC Cloud"> | Enhanced Nextcloud implementation | Docker, Nginx, Terraform, Ansible | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ncc-cloud) |
-| <img src="https://img.shields.io/badge/-AWS%20EC2%20Nginx-navy?style=flat-square" alt="AWS EC2"> | Automated Nginx deployment | Terraform, Ansible, AWS | [📁](./aws-ec2-nginx-terraform-ansible) |
+| <img src="https://img.shields.io/badge/-AWS%20EC2%20Nginx-navy?style=flat-square" alt="AWS EC2"> | Automated Nginx deployment | Terraform, Ansible, AWS | [📁](https://github.com/tanvirhasan2019/cloud-automation/tree/main/aws-ec2-nginx-terraform-ansible) |
 
 ## 🖥️ Desktop Applications
 
