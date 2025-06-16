@@ -3,7 +3,7 @@
 <div align="center">
   
   ![Portfolio Banner](https://img.shields.io/badge/Portfolio-Full%20Stack%20Developer-blue?style=for-the-badge)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanvirhasantanshen/)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/tanvirhasan2019)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:tanvir.tokyojp@gmail.com)
   
@@ -17,12 +17,12 @@ Welcome to my comprehensive project portfolio! This repository showcases my prof
 
 <div align="center">
   
-| 💻 Frontend | ⚙️ Backend | 📱 Mobile | ☁️ Cloud & DevOps | 🗄️ Database |
-|------------|-----------|----------|----------------|-----------|
-| React.js   | Node.js   | Java     | AWS            | MongoDB   |
-| Next.js    | Express.js| Android  | Docker         | SQL Server|
-| HTML/CSS   | ASP.NET   | XML      | Terraform      | PostgreSQL|
-| Material-UI| WordPress | Kotlin   | Ansible        | MySQL     |
+| 💻 Frontend | ⚙️ Backend | 📱 Mobile | ☁️ Cloud & DevOps | 🗄️ Database | 🐳 Container & Orchestration |
+|------------|-----------|----------|----------------|-----------|--------------------------|
+| React.js   | Node.js   | Java     | AWS            | MongoDB   | Docker                   |
+| Next.js    | Express.js| Android  | Docker         | SQL Server| Kubernetes               |
+| HTML/CSS   | ASP.NET   | XML      | Terraform      | PostgreSQL| Helm                     |
+| Material-UI| WordPress | Kotlin   | Ansible        | MySQL     | Service Mesh             |
   
 </div>
 
@@ -59,6 +59,7 @@ Welcome to my comprehensive project portfolio! This repository showcases my prof
 | <img src="https://img.shields.io/badge/-Shell%20Scripts-grey?style=flat-square" alt="Shell Scripts"> | Cloud automation collection | Shell, Cloud Services | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/automation-shell-script) |
 | <img src="https://img.shields.io/badge/-NCC%20Cloud-teal?style=flat-square" alt="NCC Cloud"> | Enhanced Nextcloud implementation | Docker, Nginx, Terraform, Ansible | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ncc-cloud) |
 | <img src="https://img.shields.io/badge/-AWS%20EC2%20Nginx-navy?style=flat-square" alt="AWS EC2"> | Automated Nginx deployment | Terraform, Ansible, AWS | [📁](https://github.com/tanvirhasan2019/cloud-automation/tree/main/aws-ec2-nginx-terraform-ansible) |
+| <img src="https://img.shields.io/badge/-K8s%20WordPress-cyan?style=flat-square" alt="K8s WordPress"> | Progressive Kubernetes learning labs | Kubernetes, Helm, Prometheus, Grafana, GitOps | [📁](https://github.com/tanvirhasan2019/cloud-automation/tree/main/kubernetes/wordpress-mysql) |
 
 ## 🖥️ Desktop Applications
 
