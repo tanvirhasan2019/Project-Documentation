@@ -1,6 +1,6 @@
 # 📦 Mobile Logistics Management System
 
-![Hero Image](https://via.placeholder.com/1200x400/2C3E50/FFFFFF?text=Mobile+Logistics+Management+System)
+![Hero Image](https://github.com/tanvirhasan2019/Project-Documentation/blob/main/Logistics-Management-App/hero.png?raw=true)
 
 > A comprehensive Android application for streamlining logistics operations through mobile scanning, printing, and real-time database synchronization.
 
