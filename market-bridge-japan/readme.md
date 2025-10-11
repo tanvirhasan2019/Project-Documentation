@@ -26,8 +26,8 @@
       <p align="center"><b>Rakuten html template view</b></p>
     </td>
      <td width="33%">
-      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/pc-version-view.png?raw=true" alt="Listing Creator" />
-      <p align="center"><b>HTML templaet view</b></p>
+      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/connect%20marketplace.png?raw=true" alt="Listing Creator" />
+      <p align="center"><b>Connect marketplace</b></p>
     </td>
   </tr>
 </table>
