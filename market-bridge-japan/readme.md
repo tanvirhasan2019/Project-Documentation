@@ -74,14 +74,16 @@ Check out the full demo of Market Bridge Japan:
 
 ## 🛠️ Tech Stack  
 
-- **Frontend**: React.js, Next.js  
+- **Frontend**: React.js, Next.js, MUI Material
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **AI Tools**: OpenAI API, LangChain  
-- **Deployment**: AWS (S3, ECS, Lambda)  
+- **Deployment**: AWS (S3, ECS, Fargate)  
 - **State Management**: Redux  
 - **Authentication**: Google OAuth2  
-- **Containerization**: Docker  
+- **Containerization**: Docker
+- - **API**: eBay API, Shopify API, Amazon API  
+
 
 ---
 
