@@ -82,7 +82,7 @@ Check out the full demo of Market Bridge Japan:
 - **State Management**: Redux  
 - **Authentication**: Google OAuth2  
 - **Containerization**: Docker
-- - **API**: eBay API, Shopify API, Amazon API  
+- **API**: eBay API, Shopify API, Amazon API  
 
 
 ---
