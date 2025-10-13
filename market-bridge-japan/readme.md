@@ -1,5 +1,5 @@
 # 🛒 Manage Your Seller Accounts  
-### Market Bridge Japan | Powerful E-commerce Seller Platform 🚀  
+### Market Bridge Japan | E-commerce Seller Platform 🚀  
 
 <table>
   <tr>
