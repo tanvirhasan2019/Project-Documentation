@@ -2,7 +2,7 @@
 
 ![Hero Image](https://github.com/tanvirhasan2019/Project-Documentation/blob/main/Logistics-Management-App/hero.png?raw=true)
 
-> A comprehensive Android application for streamlining logistics operations through mobile scanning, printing, and real-time database synchronization.
+> A comprehensive Android application for logistics operations through mobile scanning, printing, and real-time database synchronization.
 
 ---
 
