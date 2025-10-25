@@ -227,19 +227,6 @@ A comprehensive Android application designed for Japanese logistics companies, e
 
 ---
 
-## 🌏 Deployment
-
-**Primary Market:** Japanese Logistics Industry  
-**Geographic Focus:** Japan  
-**Languages Supported:** Japanese, English
-
-### Client Success
-- Deployed across multiple logistics companies
-- Successfully operating in warehouse and field environments
-- Proven reduction in operational costs and processing time
-
----
-
 <div align="center">
 
 **Built for the Modern Logistics Professional**
