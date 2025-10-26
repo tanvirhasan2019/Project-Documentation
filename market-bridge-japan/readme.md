@@ -16,6 +16,7 @@
       <p align="center"><b>Listview</b></p>
     </td>
   </tr>
+  
   <tr>
     <td width="33%">
       <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/pc-version-view.png?raw=true" alt="Listing Creator" />
@@ -30,6 +31,37 @@
       <p align="center"><b>Connect marketplace</b></p>
     </td>
   </tr>
+
+  <tr>
+    <td width="33%">
+      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/saving-progress.png?raw=true" alt="Data Saving to DB" />
+      <p align="center"><b>Data Saving Progress</b></p>
+    </td>
+     <td width="33%">
+      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/recharge-view.png?raw=true" alt="Purchase Points" />
+      <p align="center"><b>Purchase Points via Credit Card</b></p>
+    </td>
+     <td width="33%">
+      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/product-info-form.png?raw=true" alt="Listing Item Form UI" />
+      <p align="center"><b>Listing Item Form UI</b></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%">
+      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/product-description-html-code.png?raw=true" alt="Listing template html view" />
+      <p align="center"><b>Listing template html view</b></p>
+    </td>
+     <td width="33%">
+      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/login-page-view.png?raw=true" alt="Login Page UI" />
+      <p align="center"><b>Login Page UI</b></p>
+    </td>
+     <td width="33%">
+      <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/editor-view.png?raw=true" alt="Rich Text Editor Product View" />
+      <p align="center"><b>Rich Text Editor Porduct View</b></p>
+    </td>
+  </tr>
+  
 </table>
 
 
