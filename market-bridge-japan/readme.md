@@ -346,7 +346,7 @@ docker-compose up -d
 
 ```mermaid
 graph LR
-    A[User] -->|HTTPS| B[Next.js Frontend]
+    A[User] -->|HTTPS| B[React.js Frontend]
     B -->|API Calls| C[Express Backend]
     C -->|Query| D[MongoDB]
     C -->|Cache| E[Redis]
