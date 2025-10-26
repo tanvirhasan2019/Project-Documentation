@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Streamline Your E-commerce Listings Across Multiple Marketplaces
+### Your E-commerce Listings Across Multiple Marketplaces
 
 [![Demo](https://img.shields.io/badge/🎥_Watch-Demo-red?style=for-the-badge)](https://youtu.be/0GSdY36gLWo)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -121,7 +121,6 @@ Market Bridge Japan is a powerful **multi-marketplace management platform** desi
 - **Amazon** Seller Central API
 - **eBay** Trading API
 - **Shopify** Admin API
-- **Rakuten** marketplace support
 - Real-time sync capabilities
 
 ### 📦 Product Management
@@ -185,7 +184,6 @@ Market Bridge Japan is a powerful **multi-marketplace management platform** desi
 🔐  Passport.js
 🔑  JWT Auth
 📨  Nodemailer
-🔄  Socket.io
 ```
 
 </td>
@@ -194,11 +192,10 @@ Market Bridge Japan is a powerful **multi-marketplace management platform** desi
 ### **Database & Cloud**
 ```
 🍃  MongoDB Atlas
-☁️   AWS S3 (Storage)
+☁️  AWS S3 (Storage)
 🐳  Docker
 🚀  AWS ECS/Fargate
 📊  Redis Cache
-🔍  Elasticsearch
 ```
 
 </td>
@@ -207,8 +204,8 @@ Market Bridge Japan is a powerful **multi-marketplace management platform** desi
 
 ### **Third-Party APIs**
 ```javascript
-🛒  Amazon SP-API  |  🛍️  eBay Trading API  |  🛒  Shopify Admin API  |  🏪  Rakuten RMS API
-🤖  OpenAI GPT-4   |  🔗  LangChain          |  💳  Stripe Payment     |  🌐  Google OAuth2
+🛒  Amazon SP-API        |  🛍️  eBay Trading API  |  🛒  Shopify Admin API  |  🏪  Rakuten RMS API
+🤖  OpenAI GPT-4o-mini   |  💳  Stripe Payment    |  🌐  Google OAuth2
 ```
 
 ---
@@ -429,7 +426,6 @@ Microservices architecture<br/>on AWS with<br/>auto-scaling
 - AWS cloud deployment & containerization
 - Real-time data synchronization
 - Payment gateway integration
-- AI/ML API integration with LangChain
 
 </td>
 <td width="50%">
@@ -448,15 +444,6 @@ Microservices architecture<br/>on AWS with<br/>auto-scaling
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] **Q1 2025**: Mobile app (React Native)
-- [ ] **Q2 2025**: Analytics dashboard with reports
-- [ ] **Q3 2025**: AI-powered pricing optimization
-- [ ] **Q4 2025**: Multi-language support expansion
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -466,26 +453,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact & Support
-
-<div align="center">
-
-**Questions or feedback? Let's connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
-</div>
 
 ---
 
