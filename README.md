@@ -16,10 +16,11 @@ React · Next.js · Node.js · MongoDB · AWS · Docker · Kubernetes · Terrafo
 
 ## Live in Production
 
-Four systems I built that are running today — click any of them.
+Five systems I built that are running today — click any of them.
 
 | | Product | What it does | Stack |
 |:--|:--|:--|:--|
+| 🏭 | **[Stockra](https://dashboard.stockra.jp)** | Multi-tenant ERP & inventory SaaS, live in Japan | React · Node · MongoDB · Stripe · AWS |
 | 🤖 | **[NC Chatbot](https://ncchatbot.com/)** | RAG chatbot SaaS — upload docs, embed on any site | Next.js · Node · Pinecone · OpenAI |
 | ☁️ | **[NCC Cloud Sync](https://nccloudsync.com)** | Private collaboration cloud for a client team | Nextcloud · Docker · Nginx · S3 |
 | 🏢 | **[Nippon Cloud](https://www.nippon-cloud.jp/)** | Corporate site for Nippon Cloud Co., Ltd. | React · MUI · Framer Motion · AWS |
@@ -30,6 +31,23 @@ Four systems I built that are running today — click any of them.
 ## Featured Work
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏭 Stockra — Multi-Tenant ERP & Inventory Platform
+
+<a href="stockra-erp/"><img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/dashboard.png?raw=true" alt="Stockra ERP" width="100%"/></a>
+
+A multi-tenant B2B/B2C ERP and inventory SaaS — catalog, inventory, sales, procurement, finance, and logistics across multiple shops and warehouses — **live in production in Japan**.
+
+Built tenant-isolated from the ground up: the request's organization is auto-injected into every database query. Money is handled in `Decimal128` with a canonical base-amount invariant and daily ECB FX sync, inventory uses an append-only ledger with FIFO or weighted-average batch costing, and the whole system is soft-delete-only for auditability. Ships with Stripe subscriptions, plan-limit enforcement, and locale-correct Japanese invoicing — behind twin tenant/admin front-ends.
+
+`React 19` `MUI 7` `Vite 5` `Node.js` `Express` `MongoDB` `Mongoose` `decimal.js` `Stripe` `AWS (S3 · SES · SNS)` `Docker`
+
+**[Live Site](https://dashboard.stockra.jp)** · **[Details](stockra-erp/)**
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
