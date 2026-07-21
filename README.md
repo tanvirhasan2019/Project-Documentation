@@ -1,117 +1,173 @@
-# 🚀 Professional Project Portfolio
-
 <div align="center">
-  
-  [![Portfolio Banner](https://img.shields.io/badge/Portfolio-System%20Engineer-black?style=flat-square)](https://tanvir-hasan-tanshen.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanvirhasantanshen/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/tanvirhasan2019)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:tanvir.tokyojp@gmail.com)
-  
-</div>
 
-## 📋 Overview
+# Tanvir Hasan Tanshen
 
-Welcome to my comprehensive project portfolio! This repository showcases my professional work spanning multiple domains including web development, mobile applications, cloud infrastructure, and desktop solutions.
+### Full-Stack Engineer · I build production web platforms and run the infrastructure they ship on.
 
-## 🧰 Technical Expertise
+React · Next.js · Node.js · MongoDB · AWS · Docker · Kubernetes · Terraform
 
-<div align="center">
-  
-| 💻 Frontend | ⚙️ Backend | 📱 Mobile | ☁️ Cloud & DevOps | 🗄️ Database | 🐳 Container & Orchestration |
-|------------|-----------|----------|----------------|-----------|--------------------------|
-| React.js   | Node.js   | Java     | AWS            | MongoDB   | Docker                   |
-| Next.js    | Express.js| Android  | Docker         | SQL Server| Kubernetes               |
-| HTML/CSS   | ASP.NET   | XML      | Terraform      | PostgreSQL| Helm                     |
-| Material-UI| WordPress | Kotlin   | Ansible        | MySQL     | Service Mesh             |
-  
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanvir--hasan--tanshen.com-0A0A0A?style=for-the-badge)](https://tanvir-hasan-tanshen.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvirhasantanshen/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvir.tokyojp@gmail.com)
 
-## 📂 Project Portfolio
-
-## 🌐 Web Development Projects
-
-
-
-| Project | Description | Technologies | Link |
-|:-------:|:------------|:-------------|:----:|
-| <img src="https://img.shields.io/badge/-AI%20Chatbot-orange?style=flat-square" alt="AI Chatbot"> | RAG-based platform with vector DB integration | React, Next.js, MongoDB, OpenAI, Pinecone | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/chatbot) |
-| <img src="https://img.shields.io/badge/-E--commerce-blue?style=flat-square" alt="E-commerce"> | Full-featured solution with admin panel | React, ASP.NET Core, SQL Server, Identity Server 4 | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ecommerce) |
-| <img src="https://img.shields.io/badge/-Market%20Bridge-green?style=flat-square" alt="Market Bridge"> | E-commerce management for online sellers | React, Next.js, Node.js, MongoDB, AWS | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/market-bridge-japan) |
-| <img src="https://img.shields.io/badge/-Mercedes--Benz-silver?style=flat-square" alt="Mercedes-Benz"> | Interactive vehicle showcase | React, Bootstrap | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/mercedes-benz-site) |
-| <img src="https://img.shields.io/badge/-NCC%20Site-purple?style=flat-square" alt="NCC Site"> | Corporate website with animations | React, Material-UI, Framer Motion | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ncc-company-site) |
-| <img src="https://img.shields.io/badge/-Dog%20Club-brown?style=flat-square" alt="Dog Club"> | WordPress booking with code generation | WordPress, Custom Backend | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/dog-club) |
-
-## 📱 Mobile Applications
-
-
-
-| Project | Description | Technologies | Link |
-|:-------:|:------------|:-------------|:----:|
-| <img src="https://img.shields.io/badge/-Logistics--App-blue?style=flat-square" alt="Logistics App"> | Mobile Logistics Management System | Kotlin, Java, Android SDK | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/Logistics-Management-App) |
-| <img src="https://img.shields.io/badge/-Hospital%20App-red?style=flat-square" alt="Hospital App"> | Healthcare appointment management | Java, Android SDK | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/hospital-appointment-android-app) |
-| <img src="https://img.shields.io/badge/-Kids%20Learner-yellow?style=flat-square" alt="Kids Learner"> | Interactive educational platform | Java, Android SDK | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/kids-learner-android-app) |
-## ☁️ Cloud & Infrastructure
-
-
-
-| Project | Description | Technologies | Link |
-|:-------:|:------------|:-------------|:----:|
-| <img src="https://img.shields.io/badge/-Shell%20Scripts-grey?style=flat-square" alt="Shell Scripts"> | Cloud automation collection | Shell, Cloud Services | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/automation-shell-script) |
-| <img src="https://img.shields.io/badge/-NCC%20Cloud-teal?style=flat-square" alt="NCC Cloud"> | Enhanced Nextcloud implementation | Docker, Nginx, Terraform, Ansible | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/ncc-cloud) |
-| <img src="https://img.shields.io/badge/-AWS%20EC2%20Nginx-navy?style=flat-square" alt="AWS EC2"> | Automated Nginx deployment | Terraform, Ansible, AWS | [📁](https://github.com/tanvirhasan2019/cloud-automation/tree/main/aws-ec2-nginx-terraform-ansible) |
-| <img src="https://img.shields.io/badge/-K8s%20WordPress-cyan?style=flat-square" alt="K8s WordPress"> | Progressive Kubernetes learning labs | Kubernetes, Helm, Prometheus, Grafana, GitOps | [📁](https://github.com/tanvirhasan2019/cloud-automation/tree/main/kubernetes/wordpress-mysql) |
-
-## 🖥️ Desktop Applications
-
-
-
-| Project | Description | Technologies | Link |
-|:-------:|:------------|:-------------|:----:|
-| <img src="https://img.shields.io/badge/-Microfinance-green?style=flat-square" alt="Microfinance"> | Microfinance operations management | Java, NetBeans, SQL Server | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/microfinance-management) |
-| <img src="https://img.shields.io/badge/-Shop%20Management-blue?style=flat-square" alt="Shop Management"> | Transaction and inventory tracking | Java, NetBeans, SQL Server | [📁](https://github.com/tanvirhasan2019/Project-Documentation/tree/main/shop-management) |
-
-## 🗂️ Repository Structure
-
-```
-📦 Project-Documentation
- ┣ 📂 automation-shell-script
- ┣ 📂 aws-ec2-nginx-terraform-ansible
- ┣ 📂 chatbot
- ┣ 📂 dog-club
- ┣ 📂 ecommerce
- ┣ 📂 hospital-appointment-android-app
- ┣ 📂 kids-learner-android-app
- ┣ 📂 market-bridge-japan
- ┣ 📂 mercedes-benz-site
- ┣ 📂 microfinance-management
- ┣ 📂 ncc-cloud
- ┣ 📂 ncc-company-site
- ┣ 📂 shop-management
- ┗ 📄 README.md
-```
-
-## 💡 Getting Started
-
-Each project folder contains its own detailed documentation including:
-- 📋 Project requirements and specifications
-- 🏗️ Architecture diagrams
-- 🔧 Installation and configuration guides
-- 📊 Feature demonstrations
-- 🧪 Testing procedures
-
-## 📬 Contact Information
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-tanvir.tokyojp%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tanvir.tokyojp@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tanvirhasan2019-black?style=for-the-badge&logo=github)](https://github.com/tanvirhasan2019)
-  
 </div>
 
 ---
 
+## Live in Production
+
+Four systems I built that are running today — click any of them.
+
+| | Product | What it does | Stack |
+|:--|:--|:--|:--|
+| 🤖 | **[NC Chatbot](https://ncchatbot.com/)** | RAG chatbot SaaS — upload docs, embed on any site | Next.js · Node · Pinecone · OpenAI |
+| ☁️ | **[NCC Cloud Sync](https://nccloudsync.com)** | Private collaboration cloud for a client team | Nextcloud · Docker · Nginx · S3 |
+| 🏢 | **[Nippon Cloud](https://www.nippon-cloud.jp/)** | Corporate site for Nippon Cloud Co., Ltd. | React · MUI · Framer Motion · AWS |
+| 🐕 | **[Kashima Dog Club](https://kashima-dogclub.com)** | Membership booking with automated entry codes | WordPress · Node.js |
+
+---
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 RAG AI Chatbot Platform
+
+<a href="https://ncchatbot.com/"><img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/chatbot/images/chatbot.png?raw=true" alt="RAG AI Chatbot Platform"/></a>
+
+A multi-tenant SaaS that lets any business ship its own AI chatbot. Users upload PDFs and DOCX, the platform chunks and embeds them into a vector store, and returns an embed snippet that drops into any website.
+
+Handles the full commercial path: Google OAuth, Stripe subscriptions across three tiers, S3 document storage, and containerised deployment on AWS ECS.
+
+`Next.js` `React` `Node.js` `Express` `MongoDB` `OpenAI` `Pinecone` `LangChain` `AWS ECS` `Docker` `Stripe`
+
+**[Live Site](https://ncchatbot.com/)** · **[Video](https://www.youtube.com/watch?v=i-B7goJUQnk)** · **[Details](chatbot/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Market Bridge Japan
+
+<a href="market-bridge-japan/"><img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/market-bridge-japan/images/marketplace-manager.png?raw=true" alt="Market Bridge Japan"/></a>
+
+Sellers listing the same catalogue on Amazon, eBay, Rakuten and Shopify maintain four sets of product data by hand. This platform manages them from one dashboard.
+
+The hard part is integration breadth — four marketplace APIs, each with its own auth model, listing schema and template format. Includes a credit-based billing system and AI-assisted description generation.
+
+`Next.js 14` `React 18` `MUI` `Redux Toolkit` `Node.js` `MongoDB Atlas` `Redis` `AWS Fargate` `Amazon SP-API` `eBay API` `Rakuten RMS` `Shopify Admin API` `GPT-4o-mini`
+
+**[Video](https://youtu.be/0GSdY36gLWo)** · **[Details](market-bridge-japan/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ NCC Cloud Sync
+
+<a href="https://nccloudsync.com"><img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/ncc-cloud/images/ncc-cloud.png?raw=true" alt="NCC Cloud Sync"/></a>
+
+A self-hosted collaboration platform for a client that needed their files to stay on infrastructure they control — chat, calls, task tracking, and in-browser document editing.
+
+Built on Nextcloud and extended with OnlyOffice editing, a ChatGPT assistant, centralised mail, and S3-backed external storage. I handled the deployment and operations end: Docker Compose, Nginx, DigitalOcean.
+
+`Nextcloud` `Docker Compose` `Nginx` `DigitalOcean` `AWS S3` `OnlyOffice` `ChatGPT API`
+
+**[Live Site](https://nccloudsync.com)** · **[Video](https://youtu.be/8dXDkISVMbo)** · **[Details](ncc-cloud/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Logistics Management System
+
+<a href="Logistics-Management-App/"><img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/Logistics-Management-App/hero.png?raw=true" alt="Android Logistics Management System"/></a>
+
+An Android system for Japanese logistics operators that replaces dedicated barcode scanner hardware with the phone camera, using Google ML Kit for on-device OCR.
+
+Designed offline-first: warehouse floors and delivery routes lose signal, so scans persist to local Room storage and reconcile through a sync engine when connectivity returns. Prints to Epson Bluetooth and Wi-Fi Direct label printers.
+
+*Client-reported outcomes: up to 70% lower scanning-hardware cost, ~3× faster than manual entry, ~95% OCR accuracy.*
+
+`Kotlin` `Java` `Google ML Kit` `Room` `SQLite` `Retrofit` `OkHttp` `TLS/SSL`
+
+**[Details](Logistics-Management-App/)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Infrastructure & DevOps
+
+Provisioning and orchestration work lives in a separate repository: **[tanvirhasan2019/cloud-automation](https://github.com/tanvirhasan2019/cloud-automation)**
+
+| Project | What it covers |
+|:--|:--|
+| **[AWS EC2 + Nginx](https://github.com/tanvirhasan2019/cloud-automation/tree/main/aws-ec2-nginx-terraform-ansible)** | Terraform provisions the EC2 instance and networking; Ansible configures and deploys Nginx. Full IaC path from empty account to serving traffic. |
+| **[Kubernetes WordPress + MySQL](https://github.com/tanvirhasan2019/cloud-automation/tree/main/kubernetes/wordpress-mysql)** | Stateful workload on Kubernetes — persistent volumes, Helm packaging, Prometheus and Grafana monitoring, GitOps delivery. |
+| **[Ubuntu bootstrap script](automation-shell-script/)** | Bash script that takes a bare Ubuntu host to a working Docker + Node.js + Nginx server with ufw rules configured. |
+
+---
+
+## More Projects
+
+<details>
+<summary><b>Client &amp; Freelance Work</b> — 2 projects</summary>
+
+<br>
+
+| Project | Description | Stack | Links |
+|:--|:--|:--|:--|
+| **Nippon Cloud Website** | Corporate site for Nippon Cloud Co., Ltd., with animated service and company-history sections. | React · Material-UI · Framer Motion · AWS | [Live](https://www.nippon-cloud.jp/) · [Details](ncc-company-site/) |
+| **Kashima Dog Club** | Membership booking flow that generates VIP entry codes and emails them to both the customer and the club. | WordPress · Node.js · Custom CSS | [Live](https://kashima-dogclub.com) · [Details](dog-club/) |
+
+</details>
+
+<details>
+<summary><b>Academic &amp; Early Work</b> — 5 projects</summary>
+
+<br>
+
+University coursework and self-directed learning projects. Kept here for completeness — they show the progression from desktop CRUD to the production systems above.
+
+| Project | Description | Stack | Links |
+|:--|:--|:--|:--|
+| **E-commerce Platform** | Storefront and admin panel with live chat and Identity Server 4 auth. | React · ASP.NET Core · SQL Server | [Video](https://youtu.be/SpOzNrc0n3c) · [Details](ecommerce/) |
+| **Hospital Appointment App** | Android app for booking and managing patient appointments. | Java · Android SDK | [Video](https://youtu.be/14xqiWiEpUo) · [Details](hospital-appointment-android-app/) |
+| **Microfinance Management** | Desktop system for client records, loan tracking and payment transfers. | Java · NetBeans · SQL Server | [Video](https://youtu.be/Qe-rjdtrGqk) · [Details](microfinance-management/) |
+| **Shop Management** | Inventory, sales and profit/loss tracking for small retail. | Java · NetBeans · SQL Server | [Video](https://youtu.be/kUrcNFrYjNI) · [Details](shop-management/) |
+| **Kids Learner** | Touch-based educational Android app with quizzes for children. | Java · Android SDK | [Video](https://youtu.be/y1LRPiIo0i8) · [Details](kids-learner-android-app/) |
+| **Mercedes-Benz Showcase** | Responsive front-end concept site for vehicle models and events. | React · Bootstrap | [Video](https://youtu.be/p88T1HZc08o) · [Details](mercedes-benz-site/) |
+
+</details>
+
+---
+
+## Tech Stack
+
+**Frontend** — React · Next.js · Material-UI · Redux Toolkit · Framer Motion · HTML/CSS
+
+**Backend** — Node.js · Express · ASP.NET Core · REST APIs · JWT & OAuth2 · Stripe
+
+**Cloud & DevOps** — AWS (ECS, Fargate, S3, EC2) · Docker · Kubernetes · Helm · Terraform · Ansible · Nginx · DigitalOcean · Prometheus & Grafana
+
+**Data & AI** — MongoDB · SQL Server · Redis · Pinecone · OpenAI API · LangChain
+
+**Mobile** — Kotlin · Java · Android SDK · Google ML Kit · Room
+
+---
+
 <div align="center">
-  
-⭐ **If you find this portfolio helpful, please consider giving it a star!** ⭐
+
+### Open to full-stack and platform engineering roles
+
+[![Email](https://img.shields.io/badge/tanvir.tokyojp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvir.tokyojp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvirhasantanshen/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanvir-hasan-tanshen.com/)
+
+<sub>Each folder in this repository contains detailed documentation, screenshots and architecture notes for that project.</sub>
 
 </div>
