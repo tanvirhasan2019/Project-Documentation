@@ -36,7 +36,7 @@ Five systems I built that are running today — click any of them.
 
 ### 🏭 Stockra — Multi-Tenant ERP & Inventory Platform
 
-<a href="stockra-erp/"><img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/dashboard.png?raw=true" alt="Stockra ERP" width="100%"/></a>
+<a href="stockra-erp/"><img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/dashboard.jpg?raw=true" alt="Stockra ERP" width="100%"/></a>
 
 A multi-tenant B2B/B2C ERP and inventory SaaS — catalog, inventory, sales, procurement, finance, and logistics across multiple shops and warehouses — **live in production in Japan**.
 

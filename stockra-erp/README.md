@@ -231,54 +231,22 @@ flowchart LR
 
 <table>
 <tr>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/dashboard.png?raw=true" width="100%" alt="Dashboard"/>
-<br/><b>📊 Dashboard</b>
-<br/><sub>Real-time KPIs & analytics</sub>
+<td colspan="2" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/dashboard.jpg?raw=true" width="100%" alt="Shop Dashboard"/>
+<br/><b>📊 Shop Dashboard</b>
+<br/><sub>Live KPIs, task queue & stock flow — bilingual JA/EN UI</sub>
 </td>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/sales-order-detail.png?raw=true" width="100%" alt="Sales Order"/>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/sales-order-detail.jpg?raw=true" width="100%" alt="Sales Order Detail"/>
 <br/><b>🧾 Sales Order Detail</b>
-<br/><sub>Fulfillment, costing & margin</sub>
+<br/><sub>Line items, tax, fulfillment timeline & gross margin</sub>
 </td>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/inventory-stock.png?raw=true" width="100%" alt="Inventory"/>
-<br/><b>🏬 Inventory</b>
-<br/><sub>Stock across shops & warehouses</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/multi-currency.png?raw=true" width="100%" alt="Multi-currency"/>
-<br/><b>💱 Multi-Currency</b>
-<br/><sub>Exchange rates & base settlement</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/purchase-order.png?raw=true" width="100%" alt="Purchase Order"/>
-<br/><b>🚚 Purchase Order</b>
-<br/><sub>Approvals & goods receipt</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/invoice-jp.png?raw=true" width="100%" alt="Japanese Invoice"/>
-<br/><b>📄 Japanese Invoice</b>
-<br/><sub>Locale-correct formatting</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/goods-receipt.png?raw=true" width="100%" alt="Goods Receipt"/>
-<br/><b>📥 Goods Receipt</b>
-<br/><sub>Receiving into batch layers</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/admin-console.png?raw=true" width="100%" alt="Admin Console"/>
-<br/><b>🛡️ Platform Admin</b>
-<br/><sub>Organizations, plans & billing</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/analytics.png?raw=true" width="100%" alt="Analytics"/>
-<br/><b>📈 Analytics</b>
-<br/><sub>Sales & finance insight</sub>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/bins-rack-grid.jpg?raw=true" width="100%" alt="Bin & Rack Management"/>
+<br/><b>🏬 Bin & Rack Management</b>
+<br/><sub>Warehouse bin grid with capacity & utilization</sub>
 </td>
 </tr>
 </table>
