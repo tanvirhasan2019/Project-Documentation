@@ -274,6 +274,30 @@ flowchart LR
 </td>
 </tr>
 <tr>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/purchase-order.jpg?raw=true" width="100%" alt="Purchase Order Approval"/>
+<br/><b>🛒 Purchase Order Approval</b>
+<br/><sub>Submitted PO awaiting sign-off — draft → approved progress rail</sub>
+</td>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/goods-receipt.jpg?raw=true" width="100%" alt="Goods Receipt"/>
+<br/><b>📥 Goods Receipt</b>
+<br/><sub>Receiving into batch layers with per-line batch IDs & QC counts</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/multi-currency.jpg?raw=true" width="100%" alt="Exchange Rates"/>
+<br/><b>💱 Multi-Currency & FX</b>
+<br/><sub>JPY base with USD / EUR / CNY auto-synced daily at 06:00 JST</sub>
+</td>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/analytics.jpg?raw=true" width="100%" alt="Sales Analytics"/>
+<br/><b>📈 Sales Analytics</b>
+<br/><sub>Six-month order trend and revenue compared across locations</sub>
+</td>
+</tr>
+<tr>
 <td colspan="2" align="center">
 <img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/org-dashboard.jpg?raw=true" width="100%" alt="Stockra organization dashboard"/>
 <br/><b>🏢 Organization Dashboard</b>

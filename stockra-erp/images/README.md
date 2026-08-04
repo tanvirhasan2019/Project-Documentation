@@ -16,10 +16,21 @@ Images are served to GitHub via `?raw=true` links, so **they only appear once co
 | `inventory-items.jpg` | Stock item list — 23 SKUs, ¥139,169,251 valuation, low-stock and out-of-stock counters, columns for bin, on hand, allocated, available and total stock cost, variation-grouped rows |
 | `shipments-list.jpg` | Shipment list — 113 shipments across 13 carriers (Yamato, Japan Post, Seino, Nippon Express), per-row customer, tracking number, status and ETA |
 | `org-dashboard.jpg` | Organization-wide dashboard — total sales with 7-day sparkline, stock value, unfulfilled orders, revenue by location across three branches, inventory health score, sales trend, top performers |
+| `purchase-order.jpg` | A purchase order mid-approval — status 提出済み (submitted) with an overdue flag, order total ¥6,663,300 over 4 lines / 412 units, 0 % received, ¥0 paid, ordered/received/unit-price/line-total columns, and a PO progress rail sitting between 提出済み and 承認済み with the 承認 (approve) action live |
+| `goods-receipt.jpg` | A completed goods receipt — 6 lines, 1,134 of 1,134 units received (100 %), 0 defective, ¥10,512,960 total, each line carrying its own batch ID and QC count, linked back to its source PO |
+| `multi-currency.jpg` | Exchange rates — 19 rate documents across 3 currencies on a JPY base, daily auto-sync at 06:00 JST, with USD ¥149.41 / EUR ¥165.84 / CNY ¥20.5 and their source and last-updated date |
+| `analytics.jpg` | Sales analytics — orders, units, average order value, return rate and top category, plus a six-month order-trend line chart across all three locations and a location-comparison bar chart with revenue per location |
 
-Used in the showcase as a full-width hero (`dashboard.jpg`), three side-by-side pairs beneath it, and `org-dashboard.jpg` full-width at the bottom.
+Used in the showcase as a full-width hero (`dashboard.jpg`), five side-by-side pairs beneath it, and `org-dashboard.jpg` full-width at the bottom.
 
-Screenshots come from three capture generations and the pairs are matched accordingly — `dashboard`, `sales-order-detail`, `bins-rack-grid`, `invoice-jp` and `shipment-detail` have the expanded sidebar; `inventory-items` and `shipments-list` are 1344×615 with the sidebar collapsed to an icon rail; `org-dashboard` is a content-only crop. **Keep new pairs within one generation** — a full-sidebar shot next to an icon-rail shot reads as two different products.
+Screenshots come from three capture generations and the pairs are matched accordingly — `dashboard`, `sales-order-detail`, `bins-rack-grid`, `invoice-jp` and `shipment-detail` have the expanded sidebar; `inventory-items`, `shipments-list`, `purchase-order`, `goods-receipt`, `multi-currency` and `analytics` are 1344×615 with the sidebar collapsed to an icon rail; `org-dashboard` is a content-only crop. **Keep new pairs within one generation** — a full-sidebar shot next to an icon-rail shot reads as two different products.
+
+The six 1344×615 captures follow the recipe documented in the landing page's
+`src/constants/product-tour.js`: ERP at `localhost:3031`, UI language 日本語, sidebar collapsed to
+the icon rail, viewport 1920 device px, `document.body.style.zoom = 1.5`, screenshot 1568×726 →
+crop `x0 y26 w1530 h700` → resize 1344×615, JPEG q84 with 4:4:4 chroma subsampling (4:2:0 smears
+small kanji). The zoom is the point — it is what keeps Japanese text legible at the width these
+render in a README.
 
 ## Still to capture
 
@@ -27,11 +38,7 @@ Wanted for the showcase, not yet taken:
 
 | Filename | What it should show |
 |---|---|
-| `multi-currency.jpg` | Exchange rates or a multi-currency view |
-| `purchase-order.jpg` | A purchase order, ideally mid-approval-workflow |
-| `goods-receipt.jpg` | Goods receipt / receiving into batch layers |
-| `admin-console.jpg` | The platform-admin console — organizations, plans, billing. Note `org-dashboard.jpg` is **not** this: it is an org-wide sales rollup, not the admin console |
-| `analytics.jpg` | A dedicated sales or finance analytics view — partly covered already by `org-dashboard.jpg` (sales trend, revenue by location, top performers) |
+| `admin-console.jpg` | The platform-admin console — organizations, plans, billing. Note `org-dashboard.jpg` is **not** this: it is an org-wide sales rollup, not the admin console. This one lives in a **separate SPA** — `npm run dev:admin` on port 3032, its own platform-admin login (`seed:platform-admin`), a red admin shell and forced light mode, so it will not visually match the captures above and should get its own full-width row |
 
 Optional extras: `hero.jpg` (banner for the top of the showcase), `logo.png` (Stockra brand mark).
 
