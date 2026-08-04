@@ -249,6 +249,37 @@ flowchart LR
 <br/><sub>Warehouse bin grid with capacity & utilization</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/invoice-jp.jpg?raw=true" width="100%" alt="Qualified Invoice"/>
+<br/><b>🧾 Qualified Invoice (適格請求書)</b>
+<br/><sub>T+13-digit registration number, per-line 10% tax and kanji total</sub>
+</td>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/shipment-detail.jpg?raw=true" width="100%" alt="Shipment Detail"/>
+<br/><b>🚚 Shipment Detail</b>
+<br/><sub>Carrier tracking, pick/pack timestamps & delivery timeline</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/inventory-items.jpg?raw=true" width="100%" alt="Inventory Items"/>
+<br/><b>📦 Inventory Items</b>
+<br/><sub>On hand, allocated and available with per-item stock valuation</sub>
+</td>
+<td width="50%" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/shipments-list.jpg?raw=true" width="100%" alt="Shipments"/>
+<br/><b>🚢 Shipments</b>
+<br/><sub>Yamato / Japan Post / Seino / Nippon Express tracking and ETA in one place</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github.com/tanvirhasan2019/Project-Documentation/blob/main/stockra-erp/images/org-dashboard.jpg?raw=true" width="100%" alt="Stockra organization dashboard"/>
+<br/><b>🏢 Organization Dashboard</b>
+<br/><sub>Total sales, stock value, revenue by location & inventory health</sub>
+</td>
+</tr>
 </table>
 
 ---
